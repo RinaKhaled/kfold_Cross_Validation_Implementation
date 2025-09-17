@@ -1,1 +1,4 @@
-# kfold_Cross_Validation_Implementation
+# kfold Cross Validation Implementation
+- Dataset: MNIST dataset.
+- Implement Logistic Regression.
+- Implement kfold cross validation.
